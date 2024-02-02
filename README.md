@@ -23,7 +23,7 @@ The Indian Leader Classifier has potential applications in various scenarios, es
 To run the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/indian-leader-classifier.git`
-2. Run the ".\server\server.py" file after having all the requirements satisfield (to install all the dependencies type in command prompt  pip install -r requirements.txt)
+2. Run the ".\server\server.py" file after having all the requirements satisfield (to install all the dependencies type in command prompt  `pip install -r requirements.txt`)
 3. Open the `index.html` file in a web browser.
 4. Drop an image onto the web interface to see the classification results.
 
